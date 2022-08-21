@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9917d1055b5dd004ea3bfc9d14194d96, type: 3}
+  m_Name: masingan
+  m_EditorClassIdentifier: 
+  EnemyName: 
+  EnemyColor: {r: 0.6509434, g: 0, b: 0.4330496, a: 0}
+  TheEnemySpeed: 1.5
+  TheEnemyDamge: 30
+  TheEnemyLife: 330
+  TheEnemyImproveSize: {x: 0.3, y: 0.3, z: 0}
+  TheEnemyImproveHeltey: 150
+  TheEnemyImproveSpeed: 0.4
+  TheEnemyImproveDamege: 5
+  CanShote: 1
+  TheEnemyDistancToShote: 6
+  TheEnemyBulletsSpeed: 6
+  TheEnemySumendBulletsSpeed: 10
+  TheEnemyRotateToTargetSpeed: 1
+  TheEnemyBulletsDamge: 4

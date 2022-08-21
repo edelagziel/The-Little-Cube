@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9917d1055b5dd004ea3bfc9d14194d96, type: 3}
+  m_Name: agam
+  m_EditorClassIdentifier: 
+  EnemyName: agam
+  EnemyColor: {r: 0.9528302, g: 0, b: 0.79057187, a: 0}
+  TheEnemySpeed: 5
+  TheEnemyDamge: 10
+  TheEnemyLife: 100
+  TheEnemyImproveSize: {x: 0.8, y: 0.8, z: 0}
+  TheEnemyImproveHeltey: 100
+  TheEnemyImproveSpeed: 1
+  TheEnemyImproveDamege: 10
+  CanShote: 1
+  TheEnemyDistancToShote: 5
+  TheEnemyBulletsSpeed: 3
+  TheEnemySumendBulletsSpeed: 2
+  TheEnemyRotateToTargetSpeed: 3
+  TheEnemyBulletsDamge: 12

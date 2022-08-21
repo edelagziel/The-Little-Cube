@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9917d1055b5dd004ea3bfc9d14194d96, type: 3}
+  m_Name: orange
+  m_EditorClassIdentifier: 
+  EnemyName: 
+  EnemyColor: {r: 0.8679245, g: 0.48982653, b: 0.028657902, a: 0}
+  TheEnemySpeed: 2.5
+  TheEnemyDamge: 12
+  TheEnemyLife: 150
+  TheEnemyImproveSize: {x: 0.3, y: -0.1, z: 0}
+  TheEnemyImproveHeltey: 60
+  TheEnemyImproveSpeed: 0.3
+  TheEnemyImproveDamege: 3
+  CanShote: 1
+  TheEnemyDistancToShote: 5.5
+  TheEnemyBulletsSpeed: 3.5
+  TheEnemySumendBulletsSpeed: 90
+  TheEnemyRotateToTargetSpeed: 5
+  TheEnemyBulletsDamge: 7
